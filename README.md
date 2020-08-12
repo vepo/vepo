@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-
 [![Twitter Badge](https://img.shields.io/badge/-@vepo-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vepo)](https://twitter.com/vepo) 
 [![Linkedin Badge](https://img.shields.io/badge/-Victor%20Os%C3%B3rio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorosorio/)](https://www.linkedin.com/in/victorosorio/) 
 [![stackoverflow Badge](https://img.shields.io/badge/-@victor-6a737c?style=flat-square&labelColor=cccccc&logo=stackoverflow&logoColor=orange&link=https://stackoverflow.com/users/329082/victor)](https://stackoverflow.com/users/329082/victor)
