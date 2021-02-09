@@ -12,6 +12,13 @@ Here you can find a lot of Java Proof of Concepts (POCs). I work mostly with Jav
 
 Try [this formatter](https://gist.github.com/vepo/ca87d614a983ecf9568bf891b0ad0032) for Java Editor on Eclipse
 
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/vepo/vepo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vepo&show_icons=true&include_all_commits=true&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&" alt="Victor Osório's Technologies on GitHub" width="400"/></a>
+  
+<p/>
+
 <!--
 **vepo/vepo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
