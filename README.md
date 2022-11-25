@@ -6,7 +6,7 @@
 [![Medium Badge](https://img.shields.io/badge/-@vepo-000000?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@vepo/)](https://medium.com/@vepo)
 [![dev.to Badge](https://img.shields.io/badge/-vepo-000000?style=flat-square&logo=dev.to&link=https://dev.to/vepo/)](https://dev.to/vepo/)
 
-You can find more about me on [vepo.github.io](https://vepo.github.io/about/). 😀
+You can find more about me on [blog.vepo.dev](https://blog.vepo.dev/about/). 😀
 
 Here you can find a lot of Java Proof of Concepts (POCs). I work mostly with Java, and now I'm applying my knowledge on deploying 5G solutions.
 
