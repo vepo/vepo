@@ -20,7 +20,7 @@ Try [this formatter](https://gist.github.com/vepo/ca87d614a983ecf9568bf891b0ad00
 <p/>
 
 <a href="https://github.com/vepo/vepo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vepo&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact&hide=shell,css,html,less&theme=material-palenight" alt="Victor Osório's GitHub Stats" width="400"/></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vepo&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact&hide=shell,css,html,less,jupyter+notebook&theme=material-palenight" alt="Victor Osório's GitHub Stats" width="400"/></a>
 
 
 <!--
