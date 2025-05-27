@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Twitter Badge](https://img.shields.io/badge/-@vepo-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vepo)](https://twitter.com/vepo) 
+[![Twitter Badge](https://img.shields.io/badge/-@vepo-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://bsky.app/profile/vepo.dev)](https://bsky.app/profile/vepo.dev) 
 [![Linkedin Badge](https://img.shields.io/badge/-Victor%20Os%C3%B3rio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorosorio/)](https://www.linkedin.com/in/victorosorio/) 
 [![stackoverflow Badge](https://img.shields.io/badge/-@victor-6a737c?style=flat-square&labelColor=cccccc&logo=stackoverflow&logoColor=orange&link=https://stackoverflow.com/users/329082/victor)](https://stackoverflow.com/users/329082/victor)
 [![Medium Badge](https://img.shields.io/badge/-@vepo-000000?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@vepo/)](https://medium.com/@vepo)
