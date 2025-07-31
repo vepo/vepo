@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-[![Twitter Badge](https://img.shields.io/badge/-@vepo.dev-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://bsky.app/profile/vepo.dev)](https://bsky.app/profile/vepo.dev) 
+Hi, I'm Victor Osório!
+
+I'm a software engineer with a strong focus on Java and Apache Kafka. Over the years, I've built deep expertise in Kafka Streams, designing and implementing scalable event-driven systems. 
+
 [![Linkedin Badge](https://img.shields.io/badge/-Victor%20Os%C3%B3rio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorosorio/)](https://www.linkedin.com/in/victorosorio/) 
-[![stackoverflow Badge](https://img.shields.io/badge/-@victor-6a737c?style=flat-square&labelColor=cccccc&logo=stackoverflow&logoColor=orange&link=https://stackoverflow.com/users/329082/victor)](https://stackoverflow.com/users/329082/victor)
 [![Medium Badge](https://img.shields.io/badge/-@vepo-000000?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@vepo/)](https://medium.com/@vepo)
 [![dev.to Badge](https://img.shields.io/badge/-vepo-000000?style=flat-square&logo=dev.to&link=https://dev.to/vepo/)](https://dev.to/vepo/)
 
