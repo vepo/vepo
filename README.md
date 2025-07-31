@@ -10,7 +10,7 @@ I'm a software engineer with a strong focus on Java and Apache Kafka. Over the y
 
 You can find more about me on [blog.vepo.dev](https://blog.vepo.dev/about/). 😀
 
-Here you can find a lot of Java Proof of Concepts (POCs). I work mostly with Java, and now I'm applying my knowledge on deploying 5G solutions.
+Here you can find a lot of Java Proof of Concepts (POCs). 
 
 Try [this formatter](https://gist.github.com/vepo/ca87d614a983ecf9568bf891b0ad0032) for Java Editor on Eclipse
 
