@@ -4,9 +4,12 @@ Hi, I'm Victor Osório!
 
 I'm a software engineer with a strong focus on Java and Apache Kafka. Over the years, I've built deep expertise in Kafka Streams, designing and implementing scalable event-driven systems. 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Victor%20Os%C3%B3rio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victorosorio/)](https://www.linkedin.com/in/victorosorio/) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorosorio/) 
 [![Medium Badge](https://img.shields.io/badge/-@vepo-000000?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@vepo/)](https://medium.com/@vepo)
 [![dev.to Badge](https://img.shields.io/badge/-vepo-000000?style=flat-square&logo=dev.to&link=https://dev.to/vepo/)](https://dev.to/vepo/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@victor.osorio)
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://ursal.zone/@vepo)
+[BLOG](https://blog.vepo.dev/)
 
 You can find more about me on [blog.vepo.dev](https://blog.vepo.dev/about/). 😀
 
