@@ -9,9 +9,11 @@ I'm a software engineer with a strong focus on Java and Apache Kafka. Over the y
 [![dev.to Badge](https://img.shields.io/badge/-vepo-000000?style=flat-square&logo=dev.to&link=https://dev.to/vepo/)](https://dev.to/vepo/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@victor.osorio)
 [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://ursal.zone/@vepo)
-[BLOG](https://blog.vepo.dev/) [![Pudim Score](https://pudim.dev/badge/vepo)](https://pudim.dev/calculator/vepo)
+[BLOG](https://blog.vepo.dev/)
 
 You can find more about me on [blog.vepo.dev](https://blog.vepo.dev/about/). 😀
+
+[![Pudim Score](https://pudim.dev/badge/vepo)](https://pudim.dev/calculator/vepo)
 
 Here you can find a lot of Java Proof of Concepts (POCs). 
 
